@@ -29,3 +29,7 @@ magnet:?xt=urn:btih:5f96d43576e3d386c9ba65b883210a393b68210e&tr=https%3A%2F%2Fac
 The code and associated Grok-1 weights in this release are licensed under the
 Apache 2.0 license. The license only applies to the source files in this
 repository and the model weights of Grok-1.
+
+<hr>
+
+---
